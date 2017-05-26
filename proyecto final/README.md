@@ -32,5 +32,7 @@ Número de publicaciones por político:Claudia López                       5392
   Álvaro Uribe Vélez                 12694
 
 Los publicaciones aumentan en periodos de campaña presidencial
-plt.savefig('data_month.png')
+
+<img src="data_month.png">
+
 
