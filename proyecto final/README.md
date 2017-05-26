@@ -1,4 +1,4 @@
-# Proyecto final: Uso Político de Facebook
+# Proyecto final: Uso Político de Facebook en Colombia
 ##### David Andrés Valles
 
 
@@ -25,14 +25,19 @@ El uso de redes sociales ha crecido exponencialmente en Colombia. Ha permitido u
     - Se uso metodos de "pandas", "string", expresiones regulares y "nltk" para poder obtener palabras importantes descartando pronombres,       adverbios, articulo, preposición y conjunción.
 ## Resultados
 Número de publicaciónes en total: 43.905
-Número de publicaciones por político:Claudia López                       5392
+Número de publicaciones por político:
+  Claudia López                       5392
   Gustavo Petro                       8603
   Jorge Enrique Robledo Castillo     12910
   Juan Manuel Santos - Presidente     4306
   Álvaro Uribe Vélez                 12694
-
+  <img src="publica.png">
+  
 Los publicaciones aumentan en periodos de campaña presidencial
 
 <img src="data_month.png">
+
+
+
 
 
